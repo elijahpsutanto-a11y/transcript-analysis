@@ -1,0 +1,8 @@
+# Tells Netlify the Next.js app lives in web/, not at the repo root.
+# The @netlify/plugin-nextjs is auto-installed for Next.js projects and
+# handles the publish directory and serverless function wiring.
+
+[build]
+  base = "web"
+  command = "npm run build"
+  publish = ".next"
