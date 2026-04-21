@@ -1,0 +1,60 @@
+Meeting: Intro call with Maya Chen (Founder/CEO, Ledgerly)
+Date: April 16, 2026
+Attendees: Maya Chen (Ledgerly), Elijah (Investor), Priya (Investor, Associate)
+Duration: 42 minutes
+
+---
+
+Elijah: Thanks for making time, Maya. I've been watching Ledgerly since your launch post in February. Before we get into the numbers, give me the two-minute version of what you're building and why now.
+
+Maya: Sure. Ledgerly is an AI-native close-the-books platform for mid-market companies, roughly 50 to 500 employees. Today those companies are stuck between QuickBooks, which is too small, and NetSuite, which costs them six figures and a year-long implementation. We replace the month-end close workflow — journal entries, reconciliations, variance commentary — with an agent layer that drafts everything and hands it to the controller for review. The "why now" is twofold: one, LLMs are finally reliable enough to do structured accounting work if you give them the right rails; two, post-ZIRP, every CFO we talk to has been told to cut their team by 20 percent and is desperate.
+
+Elijah: How many customers are live today?
+
+Maya: Eighteen paying, plus four in a paid pilot that converts next month. ARR is 840k, up from 190k at the start of the year. Our two biggest logos are a Series C marketplace and a publicly traded staffing company that uses us as an overlay on NetSuite.
+
+Priya: What does net revenue retention look like?
+
+Maya: On the 14 customers we've had for more than six months, net retention is 142 percent. We expand through additional entities and through a "variance copilot" module we launched in March.
+
+Elijah: That's a strong number. What's driving the expansion — usage-based pricing, or upsell?
+
+Maya: Mostly upsell. Base pricing is per-entity per-month. The variance module is a flat add-on.
+
+Elijah: And how are you winning versus FloQast and Numeric? Those are the two names I hear most when I ask controllers.
+
+Maya: Honestly, FloQast is the incumbent we displace most often. They're checklist software — they don't actually do the work. Numeric is closer to us philosophically but they're focused on the reconciliation layer only. We own the whole close. That said, I'll be honest — Numeric is moving fast and I expect we'll be in head-to-head bake-offs with them by Q3.
+
+Elijah: Is there anything structural that makes it hard for Numeric to extend into the close workflow the way you have?
+
+Maya: [pause] I think our learning loop from actually executing the work gives us a data moat over time, but I wouldn't claim that's locked in today. Happy to walk through it more deeply next time.
+
+Priya: How's the team? You were a solo founder at launch, right?
+
+Maya: Still the only co-founder on paper, but we hired a head of engineering from Stripe in January, and a forward-deployed lead from Palantir last month. Team is nine total. I'm actively recruiting a head of GTM — that's my biggest gap.
+
+Elijah: Would it help to talk to Jordan Reyes? She ran sales at Rippling's finance ops line and is between things right now.
+
+Maya: Yes, that'd be huge. Please intro.
+
+Elijah: Will do this week. On the round — what are you raising and what's the shape?
+
+Maya: Targeting 12 million Series A, leading with a tier-one. We're in conversations with three funds, aiming to close by end of May. Price isn't set but the inbound term sheets have been in the 60 to 75 post range.
+
+Elijah: What's the use of funds?
+
+Maya: Roughly 60 percent engineering, 25 percent GTM hiring, 15 percent on SOC 2 Type II and enterprise compliance — the staffing customer is pushing us on it.
+
+Priya: Can you share the data room? We'd want to diligence churn cohorts, gross margin, and your LLM cost structure.
+
+Maya: Yes, I'll send over the room today. Gross margin is tight right now, 52 percent, because we haven't finished the move off GPT-4 to our own fine-tuned stack. Should be 75-plus by Q4.
+
+Elijah: Understood. Last question — what keeps you up at night?
+
+Maya: Two things. One, that a legacy player like BlackLine wakes up and ships something passable. Two, that we hire a head of sales who doesn't understand that this is a product-led motion, not a traditional enterprise sell. I've seen that movie at other companies.
+
+Elijah: Fair. Let's wrap there. We'll review the room, come back with follow-ups by end of next week. Thanks Maya.
+
+Maya: Thanks both. Talk soon.
+
+[End of recording]
